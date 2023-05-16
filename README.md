@@ -8,6 +8,7 @@
 
   
   └── cos_bucket_demo
+  
     ├── README.md
     ├── main.tf
     ├── output.tf
