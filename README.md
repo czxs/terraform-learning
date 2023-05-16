@@ -4,9 +4,9 @@
 
 # 基础知识
 ## 1.一个基础的目录结构
-  
-└── cos_bucket_demo
 
+
+└── cos_bucket_demo
     ├── README.md
     ├── main.tf
     ├── output.tf
