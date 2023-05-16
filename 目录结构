@@ -27,7 +27,7 @@ Terraform 官方下载页面：https://www.terraform.io/downloads ，在这里�
     ├── variables.tf
     └── version.tf
 
-
+ 
     README.md 描述文件
     main.tf Terraform 主体代码文件
     output.tf 内容输出代码文件
